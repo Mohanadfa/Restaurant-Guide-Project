@@ -24,12 +24,8 @@
 
     </header>
     <section class="title">
-    <h2 id="s1"> مطاعم شمال الرياض</h2>
+    <h2 id="s1"> مطاعم الشمال </h2>
     </section>
-
-    <button >
-  <span><a href="showALL.php" title="المزيد من الفعاليات">عرض الكل</a></span>
-    </button>
 
     <section class="photo">
         <div class="events"> 
@@ -39,7 +35,7 @@
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Riad_Zoo.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
+                <p class="Hotels"><a href="Riad_Zoo.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/kYv2iatVmt1HKpit8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
@@ -53,7 +49,7 @@
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
+                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/WoKG7ncJor3Mmfbs8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
@@ -67,7 +63,7 @@
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
+                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/foGHURnVYgi4ShHAA" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
@@ -81,7 +77,7 @@
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
+                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/5tQ2gS8gQQ2ckK22A" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
@@ -95,64 +91,64 @@
     <br><br><br><br>
 
     <section class="title">
-    <h2 id="s2"> افضل الاماكن </h2>
+    <h2 id="s2"> مطاعم الشرق  </h2>
     </section>
 
 <section class="photo">
     <div class="events"> 
         <div class="event">
         <div class="event-img">
-        <a href="https://www.visitsaudi.com/ar/see-do/destinations/riyadh/u-walk-complex" title="للانتقال الى الموقع"><img src="imgs/backW.jpg"></a>
+        <a href="https://najdvillage.com/" title="للانتقال الى الموقع"><img src="imgs/najd.jpg"></a>
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/8msjShWWYA5XVyoN9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
+                <p class="Hotels"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="loc"> <a href="https://maps.app.goo.gl/jBgb3uP9CWhS3aZg8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.visitsaudi.com/ar/see-do/destinations/riyadh/u-walk-complex" title="للانتقال الى الموقع"> يووك </a> </span>
+                    <span class="rabt"> <a href="https://najdvillage.com/" title="للانتقال الى الموقع"> NajdVillage </a> </span>
                     </strong>
                 </div>
         </div>
         <div class="event">
         <div class="event-img">
-        <a href="https://www.diriyah.sa/ar/season/experience-bujairi" title="للانتقال الى الموقع"><img src="imgs/backW.jpg"></a>
+        <a href="https://sizzlerhouse.com/menu" title="للانتقال الى الموقع"><img src="imgs/sizzlerhouse.jpg"></a>
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/gZpM5aG7e1UtAMUJ6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
+                <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="loc"> <a href="https://maps.app.goo.gl/jFFEk9kJcSJdoo628" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.diriyah.sa/ar/season/experience-bujairi" title="للانتقال الى الموقع">  البجيري </a> </span>
+                    <span class="rabt"> <a href="https://sizzlerhouse.com/menu" title="للانتقال الى الموقع">SizzlerHouse </a> </span>
                     </strong>
                 </div>
         </div>
         <div class="event">
         <div class="event-img">
-                    <a href="https://webook.com/ar/zones/via-riyadh" title="للانتقال الى الموقع"><img src="imgs/backW.jpg"></a>
+                    <a href="https://mazameez.com.sa/" title="للانتقال الى الموقع"><img src="imgs/Mazameez.jpeg"></a>
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/TENZAqBvmwMdJwUZ9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
+                <p class="Hotels"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="loc"> <a href="https://maps.app.goo.gl/YxFuMsjF6khxk4sH6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
-                    <span class="rabt"> <a href="https://webook.com/ar/zones/via-riyadh" title="للانتقال الى الموقع"> فيا الرياض </a> </span>
+                    <span class="rabt"> <a href="https://mazameez.com.sa/" title="للانتقال الى الموقع"> Mazameez</a> </span>
                     </strong>
                 </div>
         </div>
         <div class="event">
         <div class="event-img">
-                    <a href="https://www.visitsaudi.com/ar/see-do/destinations/riyadh/riyadh-front-shopping-area" title="للانتقال الى الموقع"><img src="imgs/backW.jpg"></a>
+                    <a href="https://belo.sa/belo.menu/ar/restaurant/riyadh/food.html" title="للانتقال الى الموقع"><img src="imgs/Belo.jpg"></a>
                 </div>
                 <div class="event-info">
                 <nav class="HoLo">
-                <p class="Hotels"><a href="Riyadh_facade.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/GSfToHgvvnaBgpm38" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
+                <p class="Hotels"><a href="Riyadh_facade.php" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="loc"> <a href="https://maps.app.goo.gl/EhkbXMNLmhmfPorF8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.visitsaudi.com/ar/see-do/destinations/riyadh/riyadh-front-shopping-area" title="للانتقال الى الموقع"> واجهة الرياض </a> </span>
+                    <span class="rabt"> <a href="https://belo.sa/belo.menu/ar/restaurant/riyadh/food.html" title="للانتقال الى الموقع"> Belo</a> </span>
                     </strong>
                 </div>
         </div>
@@ -160,197 +156,6 @@
 </section>
 
 <br><br><br><br>
-
-<section class="title">
-<h2 id="s3"> الحفلات </h2>
-</section>
-
-<section class="photo">
-    <div class="events"> 
-        <div class="event">
-        <div class="event-img">
-        <a href="#" title=" انتهت الحفلة  "><img src="imgs/backW.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="Hotels"><a href="#" title="لايوجد اقتراحات حاليا">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/e5zjrJRP7RExSwM7A" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="#" title="انتهت الحفلة ">  محمد عبدة </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-        <a href="#" title=" انتهت الحفلة  "><img src="img/authenticity.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="Hotels"><a href="#" title="لايوجد اقتراحات حاليا">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/e5zjrJRP7RExSwM7A" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="#" title=" انتهت الحفلة "> اصالة </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-        <a href="https://webook.com/en/events/khaled-abdulrahman-and-nawwaf-al-jabarti-concert-tickets" title="للانتقال الى الحفلة"><img src="img/khlodi.webp"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="Hotels"><a href="#" title="لايوجد اقتراحات حاليا">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="#" title=" لايتوفر الموقع حاليا ">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://webook.com/en/events/khaled-abdulrahman-and-nawwaf-al-jabarti-concert-tickets" title="للانتقال الى الحفلة"> خالد عبدالرحمن </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-        <a href="https://webook.com/ar/events/abadi-al-johar-concert-tickets" title="للانتقال الى الحفلة"><img src="img/abadi-aljoher.webp"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="Hotels"><a href="Riyadh_facade.php" title="  خيارات السكن القريبة من الفعالية ">اقتراحات السكن</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/mQkdaezTSrwwDuEFA" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://webook.com/ar/events/abadi-al-johar-concert-tickets" title="للانتقال الى الحفلة"> عبادي الجوهر  </a> </span>
-                    </strong>
-                </div>
-        </div>
-    </div>
-</section>
-
-<br><br><br><br>
-
-<section class="title">
-<h2 id="s4"> المنتجعات </h2>
-</section>
-
-<section class="photo">
-    <div class="events"> 
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://continents7.com/" title="للانتقال الى المنتجع"><img src="img/7.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc1"> <a href="https://maps.app.goo.gl/xu7wCw1MPkMGDSNo7" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://continents7.com/" title="للانتقال الى المنتجع"> القارات السبع  </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://doratnajd.sa/ar/" title="للانتقال الى المنتجع"><img src="img/najd.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc2"> <a href="https://maps.app.goo.gl/GiYuUxq8qa1HbFgb7?g_st=ic" title="للانتقال الى الموقع">  العماريه <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://doratnajd.sa/ar/" title="للانتقال الى المنتجع"> درة نجد  </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.instagram.com/intercontinentaldurratalriyadh/?hl=ar" title="للانتقال الى المنتجع"><img src="img/Al-Faisaliah-Resort.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc3"> <a href="https://maps.app.goo.gl/97qjv4DrdQP8X9VF8" title="للانتقال الى الموقع">  بنبان <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.instagram.com/intercontinentaldurratalriyadh/?hl=ar" title="للانتقال الى المنتجع"> منتجع درة الفيصلية  </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.instagram.com/radissoncollectionriyadh/?hl=ar" title="للانتقال الى المنتجع"><img src="img/NOFA.jpeg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc4"> <a href="https://maps.app.goo.gl/vmCvakk9u2zCC4EAA" title="للانتقال الى الموقع">  المزاحمية <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.instagram.com/radissoncollectionriyadh/?hl=ar" title="للانتقال الى المنتجع"> نوفا </a> </span>
-                    </strong>
-                </div>
-        </div>
-    </div>
-</section>
-
-<br><br><br><br>
-
-<section class="title">
-<h2> الفنادق </h2>
-</section>
-
-<section class="photo">
-    <div class="events"> 
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.booking.com/hotel/sa/obeir-resident-fndq-wbyr-lskny.ar.html" title="للانتقال الى صفحة الحجز"><img src="Hotels/Obeir.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc1"> <a href="https://maps.app.goo.gl/h7KPKwrNsTUD9Uxq6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.booking.com/hotel/sa/obeir-resident-fndq-wbyr-lskny.ar.html" title="للانتقال الى صفحة الحجز"> اوبير </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.booking.com/hotel/sa/mansard-riyadh-a-radisson-collection.ar.html" title="للانتقال الى صفحة الحجز"><img src="Hotels/Mansard.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc1"> <a href="https://maps.app.goo.gl/s5fqY2KGyszFQPuX9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.booking.com/hotel/sa/mansard-riyadh-a-radisson-collection.ar.html" title="للانتقال الى صفحة الحجز"> مانسارد </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.booking.com/hotel/sa/fairmont-riyadh.ar.html" title="للانتقال الى صفحة الحجز"><img src="Hotels/fairmont.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc1"> <a href="https://maps.app.goo.gl/qTRZyhCfpEGP5HCa6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.booking.com/hotel/sa/fairmont-riyadh.ar.html" title="للانتقال الى صفحة الحجز"> فيرمونت </a> </span>
-                    </strong>
-                </div>
-        </div>
-        <div class="event">
-        <div class="event-img">
-                    <a href="https://www.booking.com/hotel/sa/the-ritz-carlton-riyadh.ar.html" title="للانتقال الى صفحة الحجز"><img src="Hotels/Ritz-Carlton.jpg"></a>
-                </div>
-                <div class="event-info">
-                <nav class="HoLo">
-                <p class="loc1"> <a href="https://maps.app.goo.gl/N2yRJsSvFcZWaoQn7" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
-                </nav>
-                    <strong class="event-title">
-                    <span class="rabt"> <a href="https://www.booking.com/hotel/sa/the-ritz-carlton-riyadh.ar.html" title="للانتقال الى صفحة الحجز"> ريتز كارلتون </a> </span>
-                    </strong>
-                </div>
-        </div>
-    </div>
-</section>
 
 <footer>
   <br>
@@ -363,16 +168,12 @@
         </nav>
         <br>
 
-        <p id="Text">موقع مختص في عرض ابرز فعاليات  <br>الرياض والاماكن الترفيهية بحيث تتيح<br>للزائر التعرف على ابرز الفعاليات والاماكن</p>
+        <p id="Text">منصة متخصصة في عرض أبرز المطاعم <br>في الرياض وتسهيل العثور عليها</p>
+        <br><br>
         <nav class="sectionss">
-            <a href="welcome.php"> الرئيسية </a>
-            <a href="showALL.php" class="sec"> عرض الكل </a>
+            <a href="#s1"> مطاعم شمال الرياض </a>
+            <a href="#s2" class="sec1"> مطاعم شرق الرياض</a>
             <br><br>
-            <a href="#s1"> فعاليات الموسم </a>
-            <a href="#s2" class="sec1"> افضل الاماكن </a>
-            <br><br>
-            <a href="#s3"> الحفلات </a>
-            <a href="#s4" class="sec"> المنتجعات </a>
         </nav>
 
  
