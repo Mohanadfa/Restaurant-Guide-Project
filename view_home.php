@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="view_home.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>الصفحة الرئيسية</title>
 </head>
 <body>
@@ -42,6 +43,12 @@
                     <span class="rabt"> <a href="https://tokyo.redro.menu/" title="للانتقال الى المطعم"> TOKYO</a> </span>
                     </strong>
                 </div>
+                
+               <span class="fa fa-star checked"></span>
+               <span class="fa fa-star checked"></span>
+               <span class="fa fa-star checked"></span>
+               <span class="fa fa-star checked"></span>
+               <span class="fa fa-star"></span>
             </div>
             <div class="event">
             <div class="event-img">
@@ -50,12 +57,17 @@
                 <div class="event-info">
                 <nav class="HoLo">
                 <p class="Hotels"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
-                <p class="loc"> <a href="https://maps.app.goo.gl/WoKG7ncJor3Mmfbs8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
+                <p class="loc"> <a href="https://maps.app.goo.gl/cPJ6wUXnqWRyZq3y9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="event-title">
                     <span class="rabt"> <a href="https://suhailrestaurant.com/arabic" title="للانتقال الى المطعم"> Suhail</a> </span>
                     </strong>
                 </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
             </div>
             <div class="event">
             <div class="event-img">
@@ -70,6 +82,11 @@
                     <span class="rabt"> <a href="https://lusinrestaurant.com/arabic/" title="للانتقال الى المطعم"> Lusin</a> </span>
                     </strong>
                 </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
             </div>
             <div class="event">
             <div class="event-img">
@@ -84,6 +101,11 @@
                     <span class="rabt"> <a href="https://hungerstation.com/sa-ar/restaurant/kabsa/badr/badr/4567" title="للانتقال الى المطعم"> PIATTO</a> </span>
                     </strong>
                 </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
             </div>
         </div>
     </section>
@@ -109,6 +131,11 @@
                     <span class="rabt"> <a href="https://najdvillage.com/" title="للانتقال الى الموقع"> NajdVillage </a> </span>
                     </strong>
                 </div>
+                <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star "></span>
+                    <span class="fa fa-star"></span>
         </div>
         <div class="event">
         <div class="event-img">
@@ -123,6 +150,11 @@
                     <span class="rabt"> <a href="https://sizzlerhouse.com/menu" title="للانتقال الى الموقع">SizzlerHouse </a> </span>
                     </strong>
                 </div>
+                <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
         </div>
         <div class="event">
         <div class="event-img">
@@ -137,6 +169,11 @@
                     <span class="rabt"> <a href="https://mazameez.com.sa/" title="للانتقال الى الموقع"> Mazameez</a> </span>
                     </strong>
                 </div>
+                <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
         </div>
         <div class="event">
         <div class="event-img">
@@ -151,6 +188,11 @@
                     <span class="rabt"> <a href="https://belo.sa/belo.menu/ar/restaurant/riyadh/food.html" title="للانتقال الى الموقع"> Belo</a> </span>
                     </strong>
                 </div>
+                <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
         </div>
     </div>
 </section>

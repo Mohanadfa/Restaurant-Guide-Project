@@ -80,6 +80,7 @@
     transition: 0.5s;
    }
    
+   
    button span:after {
     content: '»';
     position: absolute;
@@ -253,4 +254,7 @@ transition: 0.59s ease;
     color: white;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.checked {
+  color: orange;
 }
