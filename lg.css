@@ -1,6 +1,6 @@
 body{
-    background: url(imgs/white-back.jpg);
-    background-size: cover;
+    background: url(imgs/RRB.jpg);
+    background-size: auto;
     justify-content: center;
     align-items: center;
     min-height: 100vb;
@@ -28,7 +28,7 @@ body{
 }
 
 .title {
-  color: rgb(118, 118, 118);
+  color: rgb(0, 0, 0);
   margin: 3rem 0;
   font-size: 2rem;
 }

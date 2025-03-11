@@ -32,7 +32,7 @@
             if (mysqli_num_rows($result) == 1)
             {
                 $_SESSION['login_user'] = $user;
-                header("location: welcome_name.php");
+                header("location: view_homeName.php");
             }
             else 
                 echo "<h2>Your Login username or Password is invalid</h2>";

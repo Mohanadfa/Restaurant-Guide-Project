@@ -11,10 +11,11 @@
 <body>
 
 <header>
-            <nav class="navigation">
-
-            <a href="lg.php" class="login"> تسجيل الدخول </a>
-            <a href="rg.php" class="sgin"> انشاء الحساب </a>
+        <nav class="navigation">
+            <?php
+                session_start();
+                echo'<p class="name"> Welcome '.$_SESSION['login_user'].'</p>';
+            ?>
         </nav>
 
         <a href="#" class="logo"> مطاعم الرياض</a>
@@ -36,7 +37,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Riad_Zoo.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/kYv2iatVmt1HKpit8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -56,7 +57,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/cPJ6wUXnqWRyZq3y9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -75,7 +76,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/foGHURnVYgi4ShHAA" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -94,7 +95,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/5tQ2gS8gQQ2ckK22A" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -124,7 +125,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/jBgb3uP9CWhS3aZg8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -143,7 +144,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Boulevard_World&&City&&Wintergarden.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/jFFEk9kJcSJdoo628" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -162,7 +163,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="ViaRiyadh&&Yook&&RubinPlaza&&Listen&&Valley&&AlRaed_Grove.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/YxFuMsjF6khxk4sH6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -181,7 +182,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="Riyadh_facade.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/EhkbXMNLmhmfPorF8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
