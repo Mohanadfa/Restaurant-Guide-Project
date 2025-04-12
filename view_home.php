@@ -36,7 +36,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/menuto.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/kYv2iatVmt1HKpit8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -56,7 +56,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/Menusuh.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/cPJ6wUXnqWRyZq3y9" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -75,7 +75,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/Menuln.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/foGHURnVYgi4ShHAA" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -94,7 +94,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/MenuPT.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/5tQ2gS8gQQ2ckK22A" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -124,7 +124,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/menunj.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/jBgb3uP9CWhS3aZg8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -143,7 +143,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/menusiz.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/jFFEk9kJcSJdoo628" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -162,7 +162,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/menumz.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/YxFuMsjF6khxk4sH6" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
@@ -181,7 +181,7 @@
                 </div>
                 <div class="Restaurant-info">
                 <nav class="HoLo">
-                <p class="Rest"><a href="" title="  قائمة الطعام">قائمة الطعام</a></p>
+                <p class="Rest"><a href="menu/menube.php" title="  قائمة الطعام">قائمة الطعام</a></p>
                 <p class="loc"> <a href="https://maps.app.goo.gl/EhkbXMNLmhmfPorF8" title="للانتقال الى الموقع">  الرياض <i class="fa-solid fa-map-location-dot"></i></a></p>
                 </nav>
                     <strong class="Restaurant-title">
