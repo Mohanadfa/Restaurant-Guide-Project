@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url(RRB.jpg);
+  text-align: center;
+  direction: rtl; 
+  margin: 0;
+  padding: 0;
+}
+
+
+footer {
+  padding: 20px;
+}
+
+
+nav .sections a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #333;
+  margin: 0 15px;
+  padding: 10px;
+  transition: color 0.3s;
+}
+
+nav .sections a:hover {
+  color: #008000;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.menu-item {
+  background-color: #fff;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.menu-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.menu-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.menu-item h3 {
+  font-size: 20px;
+  color: #333;
+  margin: 10px 0;
+}
+
+.menu-item .price {
+  font-size: 18px;
+  color: #008000;
+  margin: 10px 0;
+}
+
+.rating {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.rating input[type="radio"] {
+  display: none;
+}
+
+.rating label {
+  font-size: 25px;
+  color: #ccc;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating input[type="radio"]:checked ~ label {
+  color: #f39c12;
+}
+
+.rating label:hover {
+  color: #f39c12;
+}
+
+.menu-item:hover .price,
+.menu-item:hover h3 {
+  color: #008000;
+}
